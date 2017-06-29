@@ -1,0 +1,3 @@
+[submodule "alexandria-plsql-utils"]
+	path = alexandria-plsql-utils
+	url = https://github.com/mortenbra/alexandria-plsql-utils
